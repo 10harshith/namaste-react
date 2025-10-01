@@ -1,0 +1,25 @@
+{
+  "name": "reat-js",
+  "version": "1.0.0",
+  "description": "Learning React from Akshay Saini",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10harshith/namaste-react.git"
+  },
+  "keywords": [
+    "namaste",
+    "react",
+    "Harshith",
+    "sharma"
+  ],
+  "author": "Akshay Saini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/10harshith/namaste-react/issues"
+  },
+  "homepage": "https://github.com/10harshith/namaste-react#readme"
+}
