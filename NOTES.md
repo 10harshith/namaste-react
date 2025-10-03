@@ -16,7 +16,7 @@ Learnings:-
 
 # Bundles:
 
-What is bundle ?
+## What is bundle ?
 -> A bundle is a single javaScript file which contains all your code + all your dependencies
 
 Why do we need bundles?
